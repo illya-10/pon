@@ -1,0 +1,26 @@
+body{
+    background-color:#42c775;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    border:3px solid olive ;
+    border-radius: 15px;
+    padding: 35px;
+    margin: 25px;
+}
+p{
+    font-size: medium;
+   text-align: center;
+}
+
+footer p, header p{
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+}
